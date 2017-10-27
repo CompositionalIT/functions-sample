@@ -1,0 +1,6 @@
+source https://www.nuget.org/api/v2
+
+framework net46
+nuget Microsoft.Azure.WebJobs
+nuget Microsoft.Azure.WebJobs.Extensions
+nuget FSharp.Core 4.0.0.1

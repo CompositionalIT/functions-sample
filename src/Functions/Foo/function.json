@@ -1,0 +1,12 @@
+﻿{
+  "scriptFile": "../bin/Debug/Functions.dll",
+  "entryPoint": "Foo.Run",
+  "bindings": [
+    {
+      "name": "trigger",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "*/10 * * * * *"
+    }
+  ]
+}
